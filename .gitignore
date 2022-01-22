@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+data/
+
+# Configuration file
+config.ini
+
+# Mac files
+.DS_Store
